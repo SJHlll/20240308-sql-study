@@ -1,0 +1,45 @@
+SELECT * FROM employees;
+
+SELECT first_name, last_name, job_id
+FROM employees;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
